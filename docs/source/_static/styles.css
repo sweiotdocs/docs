@@ -1,0 +1,66 @@
+img.logo {
+    max-height: 100px;
+    width: auto;
+}
+
+body {
+    background-color: red; 
+}
+
+.wy-nav-side {
+    background-color: #32628D;
+}
+
+.wy-nav-side .wy-menu-vertical a {
+    color: #ffffff; 
+}
+
+.wy-nav-side .current ul li a:hover,
+.wy-nav-side .current ul li a:focus,
+.wy-nav-side .current ul li a:active {
+    background-color: #e4f0fc; 
+    color: black; 
+}
+
+.wy-nav-side .current ul li a:hover,
+.wy-nav-side .current ul li a:focus,
+.wy-nav-side .current ul li a:active {
+    background-color: #055555;
+    color: #ffcc00; 
+}
+
+.wy-nav-side .current ul li.toctree-l1.current a {
+    background-color: #0066cc;
+    color: #ffffff; 
+}
+
+.wy-nav-side .current ul li a {
+    background-color: #e4f0fc; 
+    color: #333333; 
+}
+
+.wy-nav-side .current ul li.toctree-l1.current a {
+    background-color: #0066cc; 
+    color: #ffffff; 
+}
+
+.wy-nav-content {
+    background-color: #ffffff;
+}
+
+.wy-nav-side .wy-menu-vertical a {
+    color: #e4f0fc; 
+}
+
+.wy-nav-side .wy-menu-vertical a:hover,
+.wy-nav-side .wy-menu-vertical a:focus {
+    color: #ffcc00;
+}
+
+.wy-nav-content {
+    color: #333333;
+}
+
+.wy-nav-content a {
+    color: #0066cc; 
+}
