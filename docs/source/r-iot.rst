@@ -206,7 +206,7 @@ beam width*
    :name: software
    :class: anchor anchorWithStickyNavbar_JTJE
 
-R-IoT Sensor from Sensative is equipped with
+R-IoT Sensor from SweIoT is equipped with
 a sophisticated software architecture that
 includes a Virtual Sensing Machine (VSM)
 embedded in its firmware. This VSM
@@ -215,7 +215,7 @@ designed for the device's sensing
 capabilities and specific use cases.
 
 For more specialized requirements,
-Sensative provides tailored application
+SweIoT provides tailored application
 and radar method development through its
 expert engineering services. This
 customization enables R-IoT Sensor to be
@@ -505,126 +505,131 @@ performance in a variety of settings.
    :name: technical-information
    :class: anchor anchorWithStickyNavbar_JTJE
 
-+-----------------------------------+-----------------------------------+
-| Specification                     | Description                       |
-+===================================+===================================+
-| Features                          | 60 GHz pulsed coherent radar      |
-|                                   | sensor.                           |
-|                                   | Cloud-supported geo-positioning   |
-|                                   | Temperature sensor (Typical       |
-|                                   | accuracy: +/- 2 °C at 0-30 ° C)   |
-|                                   | LPWAN connectivity: LoRaWAN       |
-|                                   | Near field connectivity: NFC      |
-+-----------------------------------+-----------------------------------+
-| Radar specifications              | Acconeer XM122 radar module       |
-|                                   | 60.5 GHz                          |
-|                                   | EIRP: Max +10 dBm                 |
-|                                   | 0.3 - 6.8 m range with cm         |
-|                                   | precision                         |
-+-----------------------------------+-----------------------------------+
-| LoRaWAN specifications            | Regions:                          |
-|                                   | \* EU (863-870 MHz)               |
-|                                   | \* US915 (902-928 MHz)            |
-|                                   | \* AS923-1 (920-923 MHz)          |
-|                                   | \* AS923-2 (923-925 MHz)          |
-|                                   | \* KR (923-925 MHz)               |
-|                                   | \* AU (915-928 MHz)               |
-|                                   | \* IN (865-867 MHz)               |
-|                                   | Up to +14 dBm output power        |
-|                                   | Up to 10 km range                 |
-|                                   | LoRaWAN v1.0.4                    |
-|                                   | OTAA (Over The Air Activation &   |
-|                                   | Configuration)                    |
-|                                   | A-OTA (Upgrade Application Over   |
-|                                   | The Air)                          |
-|                                   | Multiple LoRaWAN network keys for |
-|                                   | sensor-initiated roaming          |
-+-----------------------------------+-----------------------------------+
-| 2.4 GHz protocol specifications   | 2.4 GHz (2.4 -2.483 GHz)          |
-|                                   | Data rate: 2 Mbps                 |
-|                                   | Max output power: 5.5 dBm         |
-|                                   | Sensitivity: -101 dBm (Long       |
-|                                   | range)                            |
-+-----------------------------------+-----------------------------------+
-| Geo-positioning specifications    | The device supports the following |
-|                                   | geo-positioning services:         |
-|                                   | - 2.4 GHz WIFI (b/g/n) MAC        |
-|                                   | address scanning                  |
-|                                   | - LoRa TDoA (Time Difference on   |
-|                                   | Arrival)                          |
-|                                   | A geo-solving cloud service is    |
-|                                   | required for geo-positioning.     |
-+-----------------------------------+-----------------------------------+
-| Dimensions                        |                                   |
-|                                   |                                   |
-|                                   |                              R-IoT|
-|                                   | Sensor Std          R-IoT Sensor  |
-|                                   | Narrow                            |
-|                                   | Diameter:                         |
-|                                   |                                   |
-|                                   |                                   |
-|                                   | 45 mm                             |
-|                                   | 45 mm                             |
-|                                   | Height:                           |
-|                                   |                                   |
-|                                   |                                   |
-|                                   |                                   |
-|                                   | 30 mm                             |
-|                                   | 45 mm                             |
-|                                   | Weight incl battery:              |
-|                                   |                                   |
-|                                   |                                   |
-|                                   | 38 g                              |
-|                                   |                                   |
-|                                   | 43 g                              |
-|                                   | Radar beam (approx.):             |
-|                                   |                                   |
-|                                   |                                   |
-|                                   | +/- 60°                           |
-|                                   |                             +/-   |
-|                                   | 30°                               |
-|                                   | Radar Reference Point (RRP):      |
-|                                   |                     1.1 cm        |
-|                                   |                              2.6  |
-|                                   | cm                                |
-|                                   | The distance is measured from the |
-|                                   | radar RRP located 1.1/2.6 cm      |
-|                                   | below the front of R-IoT Sensor.  |
-+-----------------------------------+-----------------------------------+
-| Operating conditions              | -30 to + 80° C                    |
-|                                   | Weather protected: IP67           |
-|                                   | Rubber ring sealing               |
-|                                   | Circuit boards moisture protected |
-|                                   | by conformal coating              |
-+-----------------------------------+-----------------------------------+
-| Storage conditions                | +10 to + 30° C                    |
-+-----------------------------------+-----------------------------------+
-| Power supply                      | Replaceable 2.1 Ah                |
-|                                   | Li-SOCl\ :sub:`2` battery. 3.6 V  |
-+-----------------------------------+-----------------------------------+
-| Battery life                      | 5-10 years battery life using     |
-|                                   | default settings and hourly       |
-|                                   | LoRaWAN (SF 9 or better).         |
-+-----------------------------------+-----------------------------------+
-| NFC                               | 13.56 MHz                         |
-|                                   | Range: 2 cm. Position your NFC    |
-|                                   | enabled phone on the front side   |
-|                                   | of R-IoT Sensor such that the     |
-|                                   | phone NFC antenna is centered just|
-|                                   | above the Puck radar sensor.      |
-|                                   | Optional Android app for local    |
-|                                   | configuration and data monitoring |
-|                                   | (password protected).             |
-+-----------------------------------+-----------------------------------+
-| Other                             | \* The device features battery    |
-|                                   | voltage level monitoring          |
-|                                   | capability. A voltage reading     |
-|                                   | below 2.8 V (when the temperature |
-|                                   | exceeds +10°C) indicates that the |
-|                                   | battery should be replaced.       |
-|                                   | \* Data memory for off-line       |
-|                                   | storage of time-stamped data.     |
-+-----------------------------------+-----------------------------------+
+.. raw:: html
+
+    <table>
+      <tr>
+        <th>Specification</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td>Features</td>
+        <td>
+          60 GHz pulsed coherent radar sensor.<br>
+          Cloud-supported geo-positioning<br>
+          Temperature sensor (Typical accuracy: +/- 2 °C at 0-30 °C)<br>
+          LPWAN connectivity: LoRaWAN<br>
+          Near field connectivity: NFC
+        </td>
+      </tr>
+      <tr>
+        <td>Radar specifications</td>
+        <td>
+          Acconeer XM122 radar module<br>
+          60.5 GHz<br>
+          EIRP: Max +10 dBm<br>
+          0.3 - 6.8 m range with cm precision
+        </td>
+      </tr>
+      <tr>
+        <td>LoRaWAN specifications</td>
+        <td>
+          Regions:<br>
+          * EU (863-870 MHz)<br>
+          * US915 (902-928 MHz)<br>
+          * AS923-1 (920-923 MHz)<br>
+          * AS923-2 (923-925 MHz)<br>
+          * KR (923-925 MHz)<br>
+          * AU (915-928 MHz)<br>
+          * IN (865-867 MHz)<br>
+          Up to +14 dBm output power<br>
+          Up to 10 km range<br>
+          LoRaWAN v1.0.4<br>
+          OTAA (Over The Air Activation & Configuration)<br>
+          A-OTA (Upgrade Application Over The Air)<br>
+          Multiple LoRaWAN network keys for sensor-initiated roaming
+        </td>
+      </tr>
+      <tr>
+        <td>2.4 GHz protocol specifications</td>
+        <td>
+          2.4 GHz (2.4 -2.483 GHz)<br>
+          Data rate: 2 Mbps<br>
+          Max output power: 5.5 dBm<br>
+          Sensitivity: -101 dBm (Long range)
+        </td>
+      </tr>
+      <tr>
+        <td>Geo-positioning specifications</td>
+        <td>
+          The device supports the following geo-positioning services:<br>
+          - 2.4 GHz WIFI (b/g/n) MAC address scanning<br>
+          - LoRa TDoA (Time Difference on Arrival)<br>
+          A geo-solving cloud service is required for geo-positioning.
+        </td>
+      </tr>
+      <tr>
+        <td>Dimensions</td>
+        <td>
+          <strong>R-IoT Sensor Std</strong><br>
+          - Diameter: 45 mm<br>
+          - Height: 30 mm<br>
+          - Weight incl battery: 38 g<br>
+          - Radar beam (approx.): +/- 60°<br>
+          - Radar Reference Point (RRP): 1.1 cm<br><br>
+          <strong>R-IoT Sensor Narrow</strong><br>
+          - Diameter: 45 mm<br>
+          - Height: 45 mm<br>
+          - Weight incl battery: 43 g<br>
+          - Radar beam (approx.): +/- 30°<br>
+          - Radar Reference Point (RRP): 2.6 cm<br><br>
+          The distance is measured from the radar RRP located 1.1 cm (Std) or 2.6 cm (Narrow) below the front of the sensor.
+        </td>
+      </tr>
+      <tr>
+        <td>Operating conditions</td>
+        <td>
+          -30 to + 80° C<br>
+          Weather protected: IP67<br>
+          Rubber ring sealing<br>
+          Circuit boards moisture protected by conformal coating
+        </td>
+      </tr>
+      <tr>
+        <td>Storage conditions</td>
+        <td>
+          +10 to + 30° C
+        </td>
+      </tr>
+      <tr>
+        <td>Power supply</td>
+        <td>
+          Replaceable 2.1 Ah Li-SOCl<sub>2</sub> battery. 3.6 V
+        </td>
+      </tr>
+      <tr>
+        <td>Battery life</td>
+        <td>
+          5-10 years battery life using default settings and hourly LoRaWAN (SF 9 or better).
+        </td>
+      </tr>
+      <tr>
+        <td>NFC</td>
+        <td>
+          13.56 MHz<br>
+          Range: 2 cm. Position your NFC-enabled phone on the front side of R-IoT Sensor such that the phone NFC antenna is centered just above the R-IoT radar sensor.<br>
+          Optional Android app for local configuration and data monitoring (password protected).
+        </td>
+      </tr>
+      <tr>
+        <td>Other</td>
+        <td>
+          * The device features battery voltage level monitoring capability. A voltage reading below 2.8 V (when the temperature exceeds +10°C) indicates that the battery should be replaced.<br>
+          * Data memory for off-line storage of time-stamped data.
+        </td>
+      </tr>
+    </table>
+
 
 .. rubric:: Safety &
    Compliance\ `​ <#safety--compliance>`__
