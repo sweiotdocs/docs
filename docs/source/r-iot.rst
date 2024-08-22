@@ -500,25 +500,6 @@ and operation of the R-IoT Sensor, ensuring
 accurate measurements and reliable
 performance in a variety of settings.
 
-.. rubric:: More
-   information\ `​ <#more-information>`__
-   :name: more-information
-   :class: anchor anchorWithStickyNavbar_JTJE
-
--  `Default R-IoT Sensor application
-   documentation incl configuration
-   options <https://github.com/Sensative/vsm-application-documentation/tree/master?tab=readme-ov-file#puck-radar>`__
--  `Link to Acconeer radar sensor
-   XM122 <https://www.acconeer.com/products/>`__
--  `Link to Acconeer housing
-   CA-122 <https://www.acconeer.com/news/new-ip66-water-proof-casings/>`__
--  `R-IoT Sensor Settings Specification 1.5.2
-   (PDF) </docs/assets/files/PUCK-settings-specification-1.5.2-f6b4047def74d86f9dcf2baa53e8b450.pdf>`__
--  `Support <https://shop.sensative.com/support>`__
--  `Support resource
-   center <https://sensative.com/product/strips-lorawan/>`__
--  Android app (coming soon)
-
 .. rubric:: Technical
    information\ `​ <#technical-information>`__
    :name: technical-information
@@ -577,7 +558,7 @@ performance in a variety of settings.
 | Dimensions                        |                                   |
 |                                   |                                   |
 |                                   |                              R-IoT|
-|                                   | Sensor Std          R-IoT Sensor   |
+|                                   | Sensor Std          R-IoT Sensor  |
 |                                   | Narrow                            |
 |                                   | Diameter:                         |
 |                                   |                                   |
@@ -628,8 +609,8 @@ performance in a variety of settings.
 | NFC                               | 13.56 MHz                         |
 |                                   | Range: 2 cm. Position your NFC    |
 |                                   | enabled phone on the front side   |
-|                                   | of R-IoT Sensor such that the phone|
-|                                   | NFC antenna is centered just      |
+|                                   | of R-IoT Sensor such that the     |
+|                                   | phone NFC antenna is centered just|
 |                                   | above the Puck radar sensor.      |
 |                                   | Optional Android app for local    |
 |                                   | configuration and data monitoring |

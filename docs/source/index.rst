@@ -25,5 +25,5 @@ Contents
    devicemanagement
    swagger
    admin
-   datamangement
+   datamanagement
    concept

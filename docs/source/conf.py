@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Swe IoT'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'SweIoT'
+copyright = '2024, SweIoT'
+author = 'Viktor'
 
 release = '0.1'
 version = '0.1.0'
