@@ -14,12 +14,8 @@ Contents
 --------
 
 .. toctree::
-   
+   products/index
    products
-   toolbox
-   
-   
-   r-iot
    gateway
    accessories
    devicemanagement
@@ -27,3 +23,9 @@ Contents
    admin
    datamanagement
    concept
+
+   .. toctree::
+   :hidden:
+   products/index
+   products/toolbox
+   products/r-iot

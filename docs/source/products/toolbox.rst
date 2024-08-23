@@ -1,11 +1,10 @@
-SweIoT Toolbox (Android App)
-============================
 
-=====================
+SweIoT Toolbox (Android App)
+----------------------------
 
 
 Get started
------------
+___________
 Setup
 _____
 
