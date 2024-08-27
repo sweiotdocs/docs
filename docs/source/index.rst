@@ -33,4 +33,3 @@ Contents
 
    products/r-iot
    products/toolbox
-   products/admin
