@@ -19,13 +19,18 @@ Contents
    :maxdepth: 2
    :caption: General Information
 
-   gateway
+   
    accessories
    devicemanagement
    swagger
-   admin
-   datamanagement
    concept
+
+.. toctree::
+   :caption: Data Management
+   :maxdepth: 2
+
+   admin
+   gateway
 
 .. toctree::
    :caption: Products
