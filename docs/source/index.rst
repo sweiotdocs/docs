@@ -10,7 +10,7 @@ Check out the :doc:`toolbox` section for further information on how to get start
 
    This project is under active development.
 
-`Download PDF <http://127.0.0.1:5500/docs/_downloads/user_manual.pdf>`_
+`Download PDF <https://sweiotdocs.readthedocs.io/en/latest/_downloads/Getting-Started-Guide-A121-XE126.pdf>`_
 
 Contents
 ========
