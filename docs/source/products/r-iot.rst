@@ -1,7 +1,5 @@
-
-
 R-IoT Sensor
-----------------------------
+============
 
 R-IoT Sensor is an exceptionally versatile,
 ultra-low power radar sensor designed for
