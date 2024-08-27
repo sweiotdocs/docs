@@ -764,28 +764,28 @@ undesired operation of the device”
 
                           
 
-.. |image1| image:: _static/media/7b63abec90f59568847c06e39af13f19f1ba868c.svg
+.. |image1| image:: ../_static/media/7b63abec90f59568847c06e39af13f19f1ba868c.svg
    :class: themedComponent_ASv_ themedComponent--light_LsTl
-.. |image2| image:: _static/media/0a4ec3061b07a1e41f479cfbfa6c55b6ff22d0b1.svg
+.. |image2| image:: ../_static/media/0a4ec3061b07a1e41f479cfbfa6c55b6ff22d0b1.svg
    :class: themedComponent_ASv_ themedComponent--dark_di81
-.. |image3| image:: _static/media/9249958c3ed4d9f62388584a9275890980c53634.svg
+.. |image3| image:: ../_static/media/9249958c3ed4d9f62388584a9275890980c53634.svg
    :class: iconLanguage_WLGx
-.. |image4| image:: _static/media/b91c8c935b4387c3a286fbefcda8f804d641b6c0.svg
+.. |image4| image:: ../_static/media/b91c8c935b4387c3a286fbefcda8f804d641b6c0.svg
    :class: iconExternalLink_Yxgb
-.. |image5| image:: _static/media/555e808755a02468eec2f90a46883730f4b39bf6.svg
+.. |image5| image:: ../_static/media/555e808755a02468eec2f90a46883730f4b39bf6.svg
    :class: lightToggleIcon_xRnD
-.. |image6| image:: _static/media/18cb17c82e92cbfe61ab2437e3fa500276a01cc3.svg
+.. |image6| image:: ../_static/media/18cb17c82e92cbfe61ab2437e3fa500276a01cc3.svg
    :class: darkToggleIcon_ST0w
-.. |image7| image:: _static/media/d3efa11204b94963cd7e49a1878defb336ff4351.svg
+.. |image7| image:: ../_static/media/d3efa11204b94963cd7e49a1878defb336ff4351.svg
    :class: breadcrumbHomeIcon_BV1R
    :target: /docs/
-.. |image8| image:: _static/media/66e06ae9b96e126159990616fa3ab8875fb274b1.png
+.. |image8| image:: ../_static/media/66e06ae9b96e126159990616fa3ab8875fb274b1.png
    :width: 300px
-.. |image9| image:: _static/media/b6f42214764c04be9cab6963c829bc6dce2ee0f6.png
+.. |image9| image:: ../_static/media/b6f42214764c04be9cab6963c829bc6dce2ee0f6.png
    :width: 400px
-.. |image10| image:: _static/media/6e8b8ac7076ee0018b4a04a1335ef5c092585b00.png
+.. |image10| image:: ../_static/media/6e8b8ac7076ee0018b4a04a1335ef5c092585b00.png
    :width: 600px
-.. |image11| image:: _static/media/7606af90aaf7191ba345f9d0618df1eb2e26d60f.png
+.. |image11| image:: ../_static/media/7606af90aaf7191ba345f9d0618df1eb2e26d60f.png
    :width: 600px
-.. |image12| image:: _static/media/654d74d6f679e2c7d234fe4dfd9d4e4395638950.png
+.. |image12| image:: ../_static/media/654d74d6f679e2c7d234fe4dfd9d4e4395638950.png
    :width: 400px
