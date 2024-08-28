@@ -10,7 +10,7 @@ Check out the :doc:`toolbox` section for further information on how to get start
 
    This project is under active development.
 
-`Download PDF <https://sweiotdocs.readthedocs.io/en/latest/docs/_downloads/Getting-Started-Guide-A121-XE126.pdf>`_
+`Download PDF <https://sweiotdocs.readthedocs.io/en/latest/docs/source/_static/Getting-Started-Guide-A121-XE126.pdf>`_
 
 Contents
 ========
@@ -20,7 +20,7 @@ Contents
    :caption: General Information
 
    
-   accessories
+   
    devicemanagement
    swagger
    concept
@@ -30,11 +30,12 @@ Contents
    :maxdepth: 2
 
    admin
-   gateway
 
 .. toctree::
    :caption: Products
    :maxdepth: 2
-
+   
+   gateway
+   accessories
    products/r-iot
    products/toolbox
