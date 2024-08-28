@@ -26,9 +26,10 @@ Contents
    concept
 
 .. toctree::
-   :caption: Data Management
+   :caption: Device Management
    :maxdepth: 2
 
+   products/toolbox
    admin
 
 .. toctree::
@@ -38,4 +39,3 @@ Contents
    gateway
    accessories
    products/r-iot
-   products/toolbox
