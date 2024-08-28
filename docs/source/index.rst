@@ -19,7 +19,6 @@ Contents
    :maxdepth: 2
    :caption: General Information
 
-   swagger
    concept
 
 .. toctree::
@@ -28,11 +27,13 @@ Contents
 
    products/toolbox
    admin
+   swagger
 
 .. toctree::
    :caption: Products
    :maxdepth: 2
    
+   products/r-iot
    gateway
    accessories
-   products/r-iot
+   

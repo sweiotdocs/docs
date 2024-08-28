@@ -4,7 +4,7 @@
 
 project = 'SweIoT'
 copyright = '2024, SweIoT'
-author = 'Viktor'
+author = 'Viktor Johansson'
 
 release = '0.1'
 version = '0.1.0'
