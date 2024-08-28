@@ -19,9 +19,6 @@ Contents
    :maxdepth: 2
    :caption: General Information
 
-   
-   
-   devicemanagement
    swagger
    concept
 
