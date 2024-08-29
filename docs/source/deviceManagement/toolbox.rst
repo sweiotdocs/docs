@@ -2,7 +2,7 @@ SweIoT Toolbox (Android App)
 =============================
 
 
-**Setup**
+**Setup - How to Connect**
 
 1. Log in to your account.
 2. Connect to a Device:
