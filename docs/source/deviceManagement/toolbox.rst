@@ -12,6 +12,9 @@ SweIoT Toolbox (Android App)
      - Search directly: Enter parts of the device's MAC address shown on the device's label (e.g., B1 or b:1 - at least 2 characters).
    - Click on the device you want to connect to.
 
+|image1|
+*Figure 1: Image specification on how to connect.*
+
 **Configuration - When Connected to a Device**
 
 1. From Device View (Main screen after connecting with a graph), scroll down until you see the main heading "Device Settings"
@@ -19,8 +22,21 @@ SweIoT Toolbox (Android App)
 3. At the top under "Selected Application", choose the application/method for the device and other system settings. Then click "Save".
 4. After selecting system settings, click "<method> Config" to configure settings specific to the device's method you have chosen such as "Measurement Cycles" and other settings. Then click "Save".
 
+|image2|
+*Figure 1: Image specification on how to configure a device.*
+
 **OTA - Update Firmware Version**
 
 1. Click on the menu
 2. Select "Update Firmware Version"
 3. Choose the desired firmware version to start the installation. Once the installation is complete, the device will disconnect. Reconnect to use the new firmware.
+
+|image3|
+*Figure 1: Image specification on how to update firmware version.*
+
+.. |image1| image:: ../_static/toolbox/first.png
+   :width: 700px
+.. |image2| image:: ../_static/toolbox/second.png
+   :width: 700px
+.. |image3| image:: ../_static/toolbox/third.png
+   :width: 700px   
