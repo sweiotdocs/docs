@@ -517,7 +517,6 @@ performance in a variety of settings.
           60 GHz pulsed coherent radar sensor.<br>
           Cloud-supported geo-positioning<br>
           Temperature sensor (Typical accuracy: +/- 2 °C at 0-30 °C)<br>
-          LPWAN connectivity: LoRaWAN<br>
           Near field connectivity: NFC
         </td>
       </tr>
@@ -527,26 +526,7 @@ performance in a variety of settings.
           Acconeer XM122 radar module<br>
           60.5 GHz<br>
           EIRP: Max +10 dBm<br>
-          0.3 - 6.8 m range with cm precision
-        </td>
-      </tr>
-      <tr>
-        <td>LoRaWAN specifications</td>
-        <td>
-          Regions:<br>
-          * EU (863-870 MHz)<br>
-          * US915 (902-928 MHz)<br>
-          * AS923-1 (920-923 MHz)<br>
-          * AS923-2 (923-925 MHz)<br>
-          * KR (923-925 MHz)<br>
-          * AU (915-928 MHz)<br>
-          * IN (865-867 MHz)<br>
-          Up to +14 dBm output power<br>
-          Up to 10 km range<br>
-          LoRaWAN v1.0.4<br>
-          OTAA (Over The Air Activation & Configuration)<br>
-          A-OTA (Upgrade Application Over The Air)<br>
-          Multiple LoRaWAN network keys for sensor-initiated roaming
+          0.3 - 6.8 m range with mm precision
         </td>
       </tr>
       <tr>
@@ -556,15 +536,6 @@ performance in a variety of settings.
           Data rate: 2 Mbps<br>
           Max output power: 5.5 dBm<br>
           Sensitivity: -101 dBm (Long range)
-        </td>
-      </tr>
-      <tr>
-        <td>Geo-positioning specifications</td>
-        <td>
-          The device supports the following geo-positioning services:<br>
-          - 2.4 GHz WIFI (b/g/n) MAC address scanning<br>
-          - LoRa TDoA (Time Difference on Arrival)<br>
-          A geo-solving cloud service is required for geo-positioning.
         </td>
       </tr>
       <tr>
@@ -609,15 +580,7 @@ performance in a variety of settings.
       <tr>
         <td>Battery life</td>
         <td>
-          5-10 years battery life using default settings and hourly LoRaWAN (SF 9 or better).
-        </td>
-      </tr>
-      <tr>
-        <td>NFC</td>
-        <td>
-          13.56 MHz<br>
-          Range: 2 cm. Position your NFC-enabled phone on the front side of R-IoT Sensor such that the phone NFC antenna is centered just above the R-IoT radar sensor.<br>
-          Optional Android app for local configuration and data monitoring (password protected).
+          5-10 years battery life using default settings.
         </td>
       </tr>
       <tr>
@@ -628,6 +591,7 @@ performance in a variety of settings.
         </td>
       </tr>
     </table>
+
 
 
 .. rubric:: Safety &
